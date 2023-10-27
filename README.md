@@ -2,7 +2,7 @@
 Assignment 3 for the course CPSC - PDD in Data Analytics
 
 This is a part of an assignment, to push the project into GitHub.
-Below the details of this project.
+Find below more informations regarding the exercise and the codes into the notebook.
 
 Exercise 2
 For this exercise , you will be working with the Titanic Data Set from Kaggle. This is a very famous data set and very often is a student’s first step in Data Analytics!
